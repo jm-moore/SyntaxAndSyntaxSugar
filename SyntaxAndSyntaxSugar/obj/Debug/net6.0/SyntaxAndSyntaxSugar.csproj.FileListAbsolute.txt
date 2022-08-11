@@ -1,0 +1,15 @@
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.exe
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.deps.json
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugar.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugar.dll
